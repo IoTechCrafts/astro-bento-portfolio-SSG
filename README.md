@@ -1,3 +1,19 @@
+<div align="center">
+
+[![CI/CD to Github Pages](https://github.com/IoTechCrafts/astro-bento-portfolio-ssg/actions/workflows/deploy.yml/badge.svg)](https://github.com/IoTechCrafts/astro-bento-portfolio-ssg/blob/main/.github/workflows/deploy.yml)
+[![Astro npm version](https://badge.fury.io/js/astro.svg)](https://badge.fury.io/js/astro)
+
+ <a href="https://github.com/IoTechCrafts/astro-bento-portfolio-ssg/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/IoTechCrafts/astroverse"></img></a>
+  <a href="https://github.com/IoTechCrafts/astro-bento-portfolio-ssg/commits/main">
+    <img src="https://img.shields.io:/github/last-commit/IoTechCrafts/astro-bento-portfolio-ssg"></img></a>
+
+</div>
+
+Use it locally with at `http://localhost:4321/astro-bento-portfolio-ssg/` or with **Github Pages**
+
+---
+
 # ⚡️astro-bento-portfolio
 
 ## A personal portfolio website made using `Astro`.
